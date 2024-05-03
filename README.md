@@ -29,4 +29,5 @@
 
 *I did struggle a bit on the card entry as I had to make sure all the information was input correctly from the number of card digits to the year as well*
 
+
 ![Struggled with this code](https://github.com/Areyes444/AccountingLedger/assets/166452594/42162d38-c4d9-445f-aa74-3bdb89ed6b85)
