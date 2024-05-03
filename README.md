@@ -17,9 +17,6 @@
 
 *When you select the home screen and select the ledgers you will be prompt with these questions*
 
-![Home screen](https://github.com/Areyes444/AccountingLedger/assets/166452594/083af55a-576a-4c7a-840f-a10de0176320)
-
-
 ![Selections for ledgers](https://github.com/Areyes444/AccountingLedger/assets/166452594/b5d95301-fbf3-4331-9ae8-e46616da34e8)
 
 *There's even a search option in case you need to search for a specific vendor or client*
