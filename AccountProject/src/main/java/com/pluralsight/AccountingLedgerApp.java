@@ -51,7 +51,7 @@ public class AccountingLedgerApp
                 System.out.println("Please select an option: ");
                 return userInput.nextLine().strip().toLowerCase();
             } catch (Exception ex) {
-
+                System.out.println("Invalid input, please try again.");
             }
         }
     }
@@ -117,7 +117,7 @@ public class AccountingLedgerApp
                 break;
             case "x":
                 System.out.println("See you soon, Going back to Home Screen ");
-                displayHomeChoices();
+                run();
                 break;
             default:
                 System.out.println("Invalid option, please select another one ");

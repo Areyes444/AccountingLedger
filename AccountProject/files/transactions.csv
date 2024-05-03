@@ -164,11 +164,4 @@ Date|Time|Description|Vendor|Amount|Card Number|Expiration Month|Expiration Year
 2023-01-15 | 09:30:35 | Security deposit              | Target    | 120.00   |                   | 0                | 0               | 0
 2023-01-10 | 13:25:40 | Freelance web design          | Client A  | 750.00   |                   | 0                | 0               | 0
 2023-01-05 | 14:30:22 | Payment for project management| Asana     | -50.00   | 1472583690321654  | 06               | 2022            | 147
-2023-01-01 | 10:10:18 | Security deposit              | Home Depot| 250.00   |                   | 0                | 0               | 02024-05-03 | 01:32:13 | prepayment for project | amazon | 900.00 |  | 0 | 0 | 0
-2024-05-03 | 01:35:25 | rent  | landlord | -12000.00 | 5465254875215426 | 5 | 2028 | 564
-2024-05-03 | 01:36:33 | subscription | youtube | -45.00 | 5421256987532563 | 11 | 2024 | 524
-2024-05-03 | 01:48:40 | project ZZzz | ups | 500.00 |  | 0 | 0 | 0
-2024-05-03 | 01:49:51 | lost bet | luii | -100.00 | 5421254215421542 | 12 | 2025 | 856
-2024-05-03 | 01:50:35 | lost bet | lola | -10.00 | 5421542125632569 | 6 | 2025 | 325
-2024-05-03 | 01:51:22 | owed debt | lola | -20.00 | 2012521452365236 | 11 | 2025 | 323
-2024-05-03 | 02:05:17 | project | amazon | 500.00 |  | 0 | 0 | 0
+2023-01-01 | 10:10:18 | Security deposit              | Home Depot| 250.00   |                   | 0                | 0               | 0
