@@ -10,3 +10,7 @@
 *When selecting a deposit you will be displayed with these questions to better track everything*
 
 ![deposit log in](https://github.com/Areyes444/AccountingLedger/assets/166452594/978fed3c-9ffd-47fe-8c39-961280601ef2)
+
+*When you select make a payment you will be asked these questions so you remember what card exactly did you pay with*
+
+![questions for log in payment to keep track of what card you use](https://github.com/Areyes444/AccountingLedger/assets/166452594/cdbb6863-b8ca-419c-b053-5462a8e3eb46)
