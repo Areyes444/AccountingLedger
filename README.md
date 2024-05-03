@@ -6,3 +6,7 @@
 *Below is the Home Screen*
 
 ![Home screen](https://github.com/Areyes444/AccountingLedger/assets/166452594/31d95464-8623-4f9d-8888-8732b86e6810)
+
+*When selecting a deposit you will be displayed with these questions to better track everything*
+
+![deposit log in](https://github.com/Areyes444/AccountingLedger/assets/166452594/978fed3c-9ffd-47fe-8c39-961280601ef2)
