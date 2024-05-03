@@ -14,3 +14,14 @@
 *When you select make a payment you will be asked these questions so you remember what card exactly did you pay with*
 
 ![questions for log in payment to keep track of what card you use](https://github.com/Areyes444/AccountingLedger/assets/166452594/cdbb6863-b8ca-419c-b053-5462a8e3eb46)
+
+*When you select the home screen and select the ledgers you will be prompt with these questions*
+
+![Home screen](https://github.com/Areyes444/AccountingLedger/assets/166452594/083af55a-576a-4c7a-840f-a10de0176320)
+
+
+![Selections for ledgers](https://github.com/Areyes444/AccountingLedger/assets/166452594/b5d95301-fbf3-4331-9ae8-e46616da34e8)
+
+*There's even a search option in case you need to search for a specific vendor or client*
+
+![custom search option](https://github.com/Areyes444/AccountingLedger/assets/166452594/fd2c7ea5-62db-404a-bd6e-5f70bb90ec68)
