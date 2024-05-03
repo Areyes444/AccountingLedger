@@ -43,9 +43,10 @@ public class AccountingLedgerApp
                 System.out.println("Welcome to you're Handy Dandy Account Ledger");
                 System.out.println("*".repeat(50));
                 System.out.println("D) Add a Deposit");
-                System.out.println("P) Make a payment with Debit/Credit Card");
-                System.out.println("L) Display Ledger");
+                System.out.println("P) Log in a payment with Debit/Credit Card");
+                System.out.println("L) Display Ledgers ");
                 System.out.println("X) Exit");
+                System.out.println("*".repeat(50));
                 System.out.println();
                 System.out.println("Please select an option: ");
                 return userInput.nextLine().strip().toLowerCase();
@@ -58,10 +59,11 @@ public class AccountingLedgerApp
     private void promptDeposit()
     {
         System.out.println();
-        System.out.println("Hello, what would you like to do today? ");
-        System.out.println();
-        System.out.println("A) Add another deposit ");
+        System.out.println("Hello, let's log in a deposit! ");
+        System.out.println("*".repeat(50));
+        System.out.println("A) Add deposit ");
         System.out.println("X) Go back to Home Screen ");
+        System.out.println("*".repeat(50));
         System.out.println("Please select an option: ");
         String choice = userInput.nextLine().strip().toLowerCase();
 
@@ -71,7 +73,6 @@ public class AccountingLedgerApp
                 break;
             case "x":
                 System.out.println("See you soon, Going back to Home Screen ");
-                displayHomeChoices();
                 break;
             default:
                 System.out.println("Invalid option, please select another one ");
@@ -81,13 +82,14 @@ public class AccountingLedgerApp
     private void addDeposits()
     {
         System.out.println();
-        System.out.println("Can You please provide the name of the vendor who made the deposit (ex. Amazon, UPS, Netflix): ");
+        System.out.println("Can You please provide the name of the vendor/client (ex. Amazon, UPS, Netflix,Client A): ");
         String vendor = userInput.nextLine();
-        System.out.println("What is the amount of the deposit received? ");
+        System.out.println("What is the amount of the deposit? ");
         double amount = Double.parseDouble(userInput.nextLine().strip());
         System.out.println("Can you please specify the purpose of this deposit? For example, is it a pre/payment for goods/services, a security deposit, or another type of deposit? : ");
         String description = userInput.nextLine();
-        System.out.println("Deposit Added successfully! ");
+        System.out.println("You're Deposit has been Added successfully! ");
+        System.out.println("-".repeat(50));
 
         Logger logger = new Logger("transactions.csv");
         logger.logMessage(description, vendor, amount, "", 0, 0, 0);
@@ -101,9 +103,11 @@ public class AccountingLedgerApp
     {
         System.out.println();
         System.out.println("Hello, let's log in the payment: ");
-        System.out.println();
+        System.out.println("*".repeat(50));
         System.out.println("l) Let's go! ");
         System.out.println("X) Go back to Home Screen ");
+        System.out.println("*".repeat(50));
+        System.out.println();
         System.out.println("Please select an option: ");
         String choice = userInput.nextLine().strip().toLowerCase();
 
@@ -126,7 +130,7 @@ public class AccountingLedgerApp
     {
         while (true) {
             System.out.println();
-            System.out.println("To whom are we making a payment today? ");
+            System.out.println("To whom did we make payment to? ");
             String vendor = userInput.nextLine();
             System.out.println("Please enter the credit/debit card number used: ");
             String cardNumber = userInput.nextLine();
@@ -179,14 +183,14 @@ public class AccountingLedgerApp
     private void promptLedger()
     {
         System.out.println();
-        System.out.println("Hello, what would you like to do today? ");
-        System.out.println();
-        System.out.println("A) All- display(ALL) entries: ");
-        System.out.println("D) Deposits- display(DEPOSITS) entries only: ");
-        System.out.println("P) Payments- display(PAYMENTS) entries only: ");
-        System.out.println("R) Reports- display(Reports): ");
+        System.out.println("Hello, what ledger do you want to see today? ");
+        System.out.println("*".repeat(50));
+        System.out.println("A) Display(ALL) entries: ");
+        System.out.println("D) Display(DEPOSITS) entries only: ");
+        System.out.println("P) Display(PAYMENTS) entries only: ");
+        System.out.println("R) Display(Reports): ");
         System.out.println("H) Go back to the HomePage");
-        System.out.println();
+        System.out.println("*".repeat(50));
         System.out.println("Please make a choice Below: ");
         String choice = userInput.nextLine().strip().toLowerCase();
 
@@ -206,7 +210,6 @@ public class AccountingLedgerApp
                 break;
             case "h":
                 System.out.println("See you soon, Going back to Home Screen ");
-                displayHomeChoices();
                 break;
             default:
                 System.out.println("Invalid option, please select another one ");
@@ -243,6 +246,8 @@ public class AccountingLedgerApp
             }
 
             System.out.println("\n Here's All the Deposit Transactions: ");
+            System.out.println("Date | Time| Description| Vendor| Amount| Card Number| Expiration Month| Expiration Year| CCV");
+            System.out.println("-".repeat(100));
             while ((line = reader.readLine()) != null) {
                 String[] parts = line.split("\\|");
                double amount = Double.parseDouble(parts[4]);
@@ -265,7 +270,9 @@ public class AccountingLedgerApp
                 return;
             }
 
-            System.out.println("\n Here's All the Deposit Transactions: ");
+            System.out.println("\n Here's All the Payment Transactions: ");
+            System.out.println("Date| Time| Description| Vendor| Amount| Card Number| Expiration Month| Expiration Year| CCV");
+            System.out.println("-".repeat(100));
             while ((line = reader.readLine()) != null) {
                 String[] parts = line.split("\\|");
                 double amount = Double.parseDouble(parts[4]);
@@ -283,16 +290,15 @@ public class AccountingLedgerApp
     {
         System.out.println();
         System.out.println("Hello, let's look at your reports ");
-        System.out.println();
         System.out.println("Which report would you like to look at: ");
-        System.out.println();
+        System.out.println("*".repeat(50));
         System.out.println("1) Month to Date: ");
         System.out.println("2) Previous Month: ");
         System.out.println("3) Year to Date: ");
         System.out.println("4) Previous Year: ");
         System.out.println("5) Search by Vendor: ");
         System.out.println("H) Go back to the HomePage");
-        System.out.println();
+        System.out.println("*".repeat(50));
         System.out.println("Please make a choice Below: ");
         String input = userInput.nextLine().strip().toLowerCase();
 
@@ -342,6 +348,8 @@ public class AccountingLedgerApp
             String line;
 
             System.out.println("\nHere is Your Month to Date Report: ");
+            System.out.println("Date| Time| Description| Vendor| Amount| Card Number| Expiration Month| Expiration Year| CCV");
+            System.out.println("-".repeat(70));
             while ((line = reader.readLine()) != null)
             {
                 String[] parts = line.split("\\|");
@@ -378,6 +386,8 @@ public class AccountingLedgerApp
             String line;
 
             System.out.println("\nHere is Your Previous Month Report: ");
+            System.out.println("Date| Time| Description| Vendor| Amount| Card Number| Expiration Month| Expiration Year| CCV");
+            System.out.println("-".repeat(70));
             while ((line = reader.readLine()) != null)
             {
                 String[] parts = line.split("\\|");
@@ -413,6 +423,8 @@ public class AccountingLedgerApp
             String line;
 
             System.out.println("\nHere is Your Year to Date Report: ");
+            System.out.println("Date| Time| Description| Vendor| Amount| Card Number| Expiration Month| Expiration Year| CCV");
+            System.out.println("-".repeat(70));
             while ((line = reader.readLine()) != null)
             {
                 String[] parts = line.split("\\|");
@@ -449,6 +461,8 @@ public class AccountingLedgerApp
             String line;
 
             System.out.println("\nHere is Your Previous Year Report: ");
+            System.out.println("Date| Time| Description| Vendor| Amount| Card Number| Expiration Month| Expiration Year| CCV");
+            System.out.println("-".repeat(70));
             while ((line = reader.readLine()) != null)
             {
                 String[] parts = line.split("\\|");
@@ -473,10 +487,11 @@ public class AccountingLedgerApp
     private void promptSearchByVendor()
     {
         System.out.println();
-        System.out.println("Hello, need to search for a specific Vendor? ");
-        System.out.println();
+        System.out.println("Hello, let's search for a specific vendor/client/company? ");
+        System.out.println("*".repeat(50));
         System.out.println("Y) Yes, please! ");
         System.out.println("N) No, go back to Reports Home Page ");
+        System.out.println("*".repeat(50));
         System.out.println("Please select an option: ");
         String choice = userInput.nextLine().strip().toLowerCase();
 
@@ -496,7 +511,7 @@ public class AccountingLedgerApp
 
     private void searchByVendor()
     {
-        System.out.println("\nEnter the Vendor's name you need to search for below: ");
+        System.out.println("\nEnter the vendor/client/company name you need to search for below: ");
         String vendorName = userInput.nextLine().trim().toLowerCase();
         boolean found = false;
 

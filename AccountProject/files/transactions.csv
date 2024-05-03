@@ -1,163 +1,174 @@
 Date|Time|Description|Vendor|Amount|Card Number|Expiration Month|Expiration Year| CCV
-2024-05-01 | 22:50:12 | Paid electric bill | pg&e | -800.00 | 4587542154215463 | 11 | 2025 | 685
-2024-05-01 | 22:51:20 | security deposit for tshirts | amazon | 1500.00 |  | 0 | 0 | 0
-2024-05-02 | 10:45:55 | goods | ups | 500.00 |  | 0 | 0 | 0
-2024-05-02 | 10:46:45 | lunch  | pizzaHut | -60.00 | 5832654215421543 | 11 | 2027 | 652
-2024-05-02 | 10:51:34 | delivery charge | ups | -500.00 | 5856325648754215 | 11 | 2028 | 653
-2024-05-02 | 11:12:33 | security deposit | Valencia | 800.00 |  | 0 | 0 | 0
-2024-05-02 | 15:05:36 | security deposit | BestBuy | 500.00 |  | 0 | 0 | 0
-2024-05-02 | 15:06:56 | personal | cheeseFactory | -600.00 | 5263521459574563 | 11 | 2025 | 623
-2023-05-01 | 08:30:15 | Grocery shopping | Walmart | -120.00 | 4875321456987521 | 09 | 2025 | 741
-2023-05-02 | 11:45:20 | Gas bill payment | Shell | -45.00 | 5689741236547896 | 10 | 2024 | 632
-2023-05-05 | 14:20:10 | Dinner with friends | Olive Garden | -200.00 | 9856321478963214 | 11 | 2026 | 895
-2023-05-07 | 16:55:30 | Movie tickets | AMC Theatres | -40.00 | 3265987412369852 | 08 | 2025 | 524
-2023-05-10 | 09:10:45 | Car maintenance | Jiffy Lube | -80.00 | 7541236985478569 | 12 | 2024 | 369
-2023-05-12 | 12:30:25 | Lunch at work | Cafeteria | -15.00 | 6325478963214569 | 06 | 2025 | 874
-2023-05-15 | 17:40:50 | Shopping spree | Macy's | -300.00 | 1236547896321456 | 07 | 2024 | 952
-2023-05-17 | 19:25:40 | Dinner date | Red Lobster | -100.00 | 9874563214789652 | 05 | 2026 | 741
-2023-05-20 | 10:15:55 | Coffee with colleagues | Starbucks | -10.00 | 4569871236547896 | 04 | 2025 | 863
-2023-05-22 | 14:55:35 | Birthday gift | Amazon | -50.00 | 3256987451236985 | 03 | 2024 | 587
-2023-05-25 | 18:20:45 | Dinner party | Cheesecake Factory | -150.00 | 6321458963214785 | 02 | 2026 | 963
-2023-05-28 | 21:10:30 | Concert tickets | Ticketmaster | -75.00 | 7896541236547895 | 01 | 2025 | 741
-2023-05-30 | 13:45:55 | Lunch meeting | Panera Bread | -25.00 | 1478563256987451 | 12 | 2024 | 632
-2023-06-02 | 08:30:15 | Groceries | Kroger | -90.00 | 3214569876321458 | 11 | 2026 | 895
-2023-06-05 | 11:45:20 | Utility bill | Duke Energy | -70.00 | 9876321456987412 | 10 | 2025 | 369
-2023-06-07 | 14:20:10 | Lunch with family | Olive Garden | -150.00 | 4563214789652147 | 09 | 2024 | 874
-2023-06-10 | 16:55:30 | Movie night | Cinemark | -30.00 | 9874523698741235 | 08 | 2026 | 524
-2023-06-12 | 09:10:45 | Gym membership | Planet Fitness | -50.00 | 6321456987456321 | 07 | 2025 | 741
-2023-06-15 | 12:30:25 | Lunch at work | Subway | -8.00 | 7896541236549875 | 06 | 2024 | 632
-2023-06-18 | 17:40:50 | Clothing shopping | H&M | -120.00 | 3256987412369875 | 05 | 2026 | 895
-2023-06-20 | 19:25:40 | Dinner with friends | Chili's | -90.00 | 6321456987412365 | 04 | 2025 | 369
-2023-06-23 | 10:15:55 | Coffee break | Dunkin' Donuts | -7.00 | 1478963256987412 | 03 | 2024 | 874
-2023-06-25 | 14:55:35 | Electronics purchase | Best Buy | -300.00 | 9632587412369854 | 02 | 2026 | 524
-2023-06-28 | 18:20:45 | Dinner date | Applebee's | -70.00 | 1236987456321478 | 01 | 2025 | 741
-2023-06-30 | 21:10:30 | Online subscription | Netflix | -15.00 | 9874123658741236 | 12 | 2024 | 632
-2023-07-02 | 08:30:15 | Breakfast | McDonald's | -8.00 | 6541236987456321 | 11 | 2026 | 874
-2023-07-05 | 11:45:20 | Clothing purchase | Gap | -50.00 | 3216549876321478 | 10 | 2025 | 369
-2023-07-07 | 14:20:10 | Lunch with colleagues | Chipotle | -12.00 | 7896541236547896 | 09 | 2024 | 741
-2023-07-10 | 16:55:30 | Gasoline | ExxonMobil | -40.00 | 9874563214789652 | 08 | 2026 | 632
-2023-07-12 | 09:10:45 | Car wash | Shell | -10.00 | 4569871236547896 | 07 | 2025 | 524
-2023-07-15 | 12:30:25 | Coffee break | Starbucks | -5.00 | 1236547896321456 | 06 | 2024 | 741
-2023-07-18 | 17:40:50 | Dinner date | Red Robin | -80.00 | 6321458963214563 | 05 | 2026 | 369
-2023-07-20 | 19:25:40 | Movie tickets | Regal Cinemas | -25.00 | 9856321478963214 | 04 | 2025 | 874
-2023-07-23 | 10:15:55 | Lunch at work | McDonald's | -6.00 | 1478563256987456 | 03 | 2024 | 632
-2023-07-25 | 14:55:35 | Shopping spree | Target | -200.00 | 6321458963256987 | 02 | 2026 | 741
-2023-07-28 | 18:20:45 | Electronics purchase | Apple Store | -1000.00 | 3256987458963214 | 01 | 2025 | 369
-2023-07-30 | 21:10:30 | Utility bill | Duke Energy | -90.00 | 6549871236547896 | 12 | 2024 | 524
-2023-08-02 | 08:30:15 | Groceries | Publix | -80.00 | 1478523698741236 | 11 | 2026 | 741
-2023-08-05 | 11:45:20 | Dinner with friends | TGI Fridays | -150.00 | 3256987412369875 | 10 | 2025 | 369
-2023-08-07 | 14:20:10 | Coffee break | Dunkin' Donuts | -6.00 | 9874123658741236 | 09 | 2024 | 874
-2023-08-10 | 16:55:30 | Movie night | AMC Theatres | -35.00 | 6541236987456321 | 08 | 2026 | 632
-2023-08-12 | 09:10:45 | Lunch with family | Olive Garden | -100.00 | 3214569876321458 | 07 | 2025 | 741
-2023-08-15 | 12:30:25 | Clothing shopping | Forever 21 | -70.00 | 7896541236549875 | 06 | 2024 | 369
-2023-08-18 | 17:40:50 | Dinner date | Texas Roadhouse | -80.00 | 4563214789652147 | 05 | 2026 | 874
-2023-08-20 | 19:25:40 | Concert tickets | Live Nation | -150.00 | 9632587412369854 | 04 | 2025 | 632
-2023-08-23 | 10:15:55 | Breakfast | IHOP | -20.00 | 9876321456987412 | 03 | 2024 | 741
-2023-08-25 | 14:55:35 | Car repair | AutoZone | -200.00 | 6321456987456321 | 02 | 2026 | 369
-2023-08-28 | 18:20:45 | Lunch at work | Chick-fil-A | -10.00 | 1236987456321478 | 01 | 2025 | 524
-2023-08-30 | 21:10:30 | Utility bill | Florida Power & Light | -110.00 | 9874523698741235 | 12 | 2024 | 741
-2023-09-02 | 08:30:15 | Coffee break | Tim Hortons | -5.00 | 7896541236547896 | 11 | 2026 | 632
-2023-09-05 | 11:45:20 | Dinner with friends | The Cheesecake Factory | -120.00 | 6321456987412365 | 10 | 2025 | 741
-2023-09-07 | 14:20:10 | Gym membership | LA Fitness | -70.00 | 4569871236547896 | 09 | 2024 | 874
-2023-09-10 | 16:55:30 | Movie night | Cinemark | -30.00 | 1236547896321456 | 08 | 2026 | 369
-2023-09-12 | 09:10:45 | Gasoline | BP | -40.00 | 9874563214789652 | 07 | 2025 | 524
-2023-09-15 | 12:30:25 | Lunch with family | Cracker Barrel | -80.00 | 6321458963214563 | 06 | 2024 | 741
-2023-09-18 | 17:40:50 | Coffee break | Panera Bread | -10.00 | 3256987412369875 | 05 | 2026 | 632
-2023-09-20 | 19:25:40 | Dinner date | Buffalo Wild Wings | -90.00 | 9856321478963214 | 04 | 2025 | 874
-2023-09-23 | 10:15:55 | Movie night | Regal Cinemas | -40.00 | 4563214789652147 | 03 | 2024 | 741
-2023-09-25 | 14:55:35 | Breakfast | Waffle House | -15.00 | 7896541236549875 | 02 | 2026 | 369
-2023-09-28 | 18:20:45 | Lunch at work | Chipotle | -12.00 | 9632587412369854 | 01 | 2025 | 524
-2023-09-30 | 21:10:30 | Utility bill | Georgia Power | -100.00 | 1478963256987456 | 12 | 2024 | 741
-2023-10-02 | 08:30:15 | Groceries | Costco | -200.00 | 9874123658741236 | 11 | 2026 | 632
-2023-10-05 | 11:45:20 | Dinner with friends | Outback Steakhouse | -150.00 | 6541236987456321 | 10 | 2025 | 874
-2023-05-22 | 14:55:35 | Deposit from freelance project | Client B | 300.00 | | 0 | 0 | 0
-2023-05-25 | 18:20:45 | Rebate from credit card company | Credit Card Provider | 25.00 | | 0 | 0 | 0
-2023-05-28 | 21:10:30 | Deposit for summer camp | Summer Camp Organization | 400.00 | | 0 | 0 | 0
-2023-05-30 | 13:45:55 | Refund for overcharged bill | Service Provider | 75.00 | | 0 | 0 | 0
-2023-06-02 | 08:30:15 | Deposit from side job | Neighbor | 150.00 | | 0 | 0 | 0
-2023-06-05 | 11:45:20 | Security deposit refund | Previous Landlord | 900.00 | | 0 | 0 | 0
-2023-06-07 | 14:20:10 | Refund for canceled subscription | Subscription Service | 10.00 | | 0 | 0 | 0
-2023-06-10 | 16:55:30 | Deposit from garage sale | Neighbor | 200.00 | | 0 | 0 | 0
-2023-06-12 | 09:10:45 | Security deposit refund | Previous Landlord | 600.00 | | 0 | 0 | 0
-2023-06-15 | 12:30:25 | Deposit from freelance work | Client C | 700.00 | | 0 | 0 | 0
-2023-06-18 | 17:40:50 | Insurance reimbursement | Insurance Company | 250.00 | | 0 | 0 | 0
-2023-06-20 | 19:25:40 | Deposit from garage sale | Neighbor | 150.00 | | 0 | 0 | 0
-2023-06-23 | 10:15:55 | Refund for damaged item | Retail Store | 30.00 | | 0 | 0 | 0
-2023-06-25 | 14:55:35 | Security deposit refund | Previous Landlord | 800.00 | | 0 | 0 | 0
-2023-06-28 | 18:20:45 | Deposit from tutoring | Student | 100.00 | | 0 | 0 | 0
-2023-06-30 | 21:10:30 | Refund for overcharged bill | Service Provider | 50.00 | | 0 | 0 | 0
-2023-07-02 | 08:30:15 | Deposit from freelance project | Client D | 400.00 | | 0 | 0 | 0
-2023-07-05 | 11:45:20 | Security deposit refund | Previous Landlord | 1000.00 | | 0 | 0 | 0
-2023-07-07 | 14:20:10 | Insurance reimbursement | Insurance Company | 150.00 | | 0 | 0 | 0
-2023-07-10 | 16:55:30 | Deposit from garage sale | Neighbor | 180.00 | | 0 | 0 | 0
-2023-07-12 | 09:10:45 | Refund for returned item | Retail Store | 40.00 | | 0 | 0 | 0
-2023-07-15 | 12:30:25 | Security deposit refund | Previous Landlord | 500.00 | | 0 | 0 | 0
-2023-07-18 | 17:40:50 | Deposit from freelance work | Client E | 600.00 | | 0 | 0 | 0
-2023-07-20 | 19:25:40 | Refund for canceled subscription | Subscription Service | 20.00 | | 0 | 0 | 0
-2023-07-23 | 10:15:55 | Deposit from tutoring | Student | 80.00 | | 0 | 0 | 0
-2023-07-25 | 14:55:35 | Insurance reimbursement | Insurance Company | 200.00 | | 0 | 0 | 0
-2023-07-28 | 18:20:45 | Security deposit refund | Previous Landlord | 1100.00 | | 0 | 0 | 0
-2023-07-30 | 21:10:30 | Deposit from freelance project | Client F | 300.00 | | 0 | 0 | 0
-2023-08-02 | 08:30:15 | Refund for overcharged bill | Service Provider | 60.00 | | 0 | 0 | 0
-2023-08-05 | 11:45:20 | Deposit from side job | Friend | 200.00 | | 0 | 0 | 0
-2023-08-07 | 14:20:10 | Security deposit refund | Previous Landlord | 800.00 | | 0 | 0 | 0
-2023-08-10 | 16:55:30 | Insurance reimbursement | Insurance Company | 100.00 | | 0 | 0 | 0
-2023-08-12 | 09:10:45 | Deposit from garage sale | Neighbor | 150.00 | | 0 | 0 | 0
-2023-08-15 | 12:30:25 | Security deposit refund | Previous Landlord | 900.00 | | 0 | 0 | 0
-2023-08-18 | 17:40:50 | Refund for canceled flight | Airline | 300.00 | | 0 | 0 | 0
-2023-08-20 | 19:25:40 | Deposit from freelance work | Client G | 700.00 | | 0 | 0 | 0
-2023-05-01 | 08:30:15 | Security deposit for apartment | XYZ Realty | 1000.00 | | 0 | 0 | 0
-2023-05-02 | 11:45:20 | Refund from utility company | ABC Energy | 50.00 | | 0 | 0 | 0
-2023-05-05 | 14:20:10 | Deposit from freelance work | Client A | 500.00 | | 0 | 0 | 0
-2023-05-07 | 16:55:30 | Insurance reimbursement | Insurance Company | 300.00 | | 0 | 0 | 0
-2023-05-10 | 09:10:45 | Rent deposit return | Previous Landlord | 1200.00 | | 0 | 0 | 0
-2023-05-12 | 12:30:25 | Security deposit for event hall | Event Services Inc. | 200.00 | | 0 | 0 | 0
-2023-05-15 | 17:40:50 | Deposit from stock sale | Stock Brokerage | 800.00 | | 0 | 0 | 0
-2024-01-01 | 08:30:15 | Payment for rent | Landlord | -1200.00 | 1234 5678 9012 3456 | 12 | 2026 | 789
-2024-01-05 | 11:45:20 | Deposit from freelance project | Client A | 500.00 | | 0 | 0 | 0
-2024-01-07 | 14:20:10 | Payment for groceries | Supermarket | -80.00 | 9876 5432 1098 7654 | 11 | 2025 | 654
-2024-01-10 | 16:55:30 | Deposit from tutoring | Student | 100.00 | | 0 | 0 | 0
-2024-01-12 | 09:10:45 | Payment for utilities | Utility Company | -150.00 | 6543 2109 8765 4321 | 10 | 2024 | 321
-2024-01-15 | 12:30:25 | Deposit from freelance work | Client B | 300.00 | | 0 | 0 | 0
-2024-01-18 | 17:40:50 | Payment for dining out | Restaurant | -50.00 | 7890 1234 5678 9012 | 09 | 2025 | 456
-2024-01-20 | 19:25:40 | Deposit from garage sale | Neighbor | 200.00 | | 0 | 0 | 0
-2024-01-23 | 10:15:55 | Payment for car insurance | Insurance Company | -300.00 | 3456 7890 1234 5678 | 08 | 2026 | 567
-2024-01-25 | 14:55:35 | Deposit from birthday gift | Family | 50.00 | | 0 | 0 | 0
-2024-01-28 | 18:20:45 | Payment for internet | Internet Provider | -60.00 | 6789 0123 4567 8901 | 07 | 2024 | 234
-2024-01-30 | 21:10:30 | Deposit from refund | Retail Store | 20.00 | | 0 | 0 | 0
-2024-02-02 | 08:30:15 | Payment for phone bill | Phone Company | -70.00 | 2345 6789 0123 4567 | 06 | 2026 | 789
-2024-02-05 | 11:45:20 | Deposit from garage sale | Neighbor | 150.00 | | 0 | 0 | 0
-2024-02-07 | 14:20:10 | Payment for gym membership | Gym | -80.00 | 8901 2345 6789 0123 | 05 | 2025 | 456
-2024-02-10 | 16:55:30 | Deposit from freelance project | Client C | 400.00 | | 0 | 0 | 0
-2024-02-12 | 09:10:45 | Payment for car repair | Auto Shop | -200.00 | 5678 9012 3456 7890 | 04 | 2024 | 012
-2024-02-15 | 12:30:25 | Deposit from tutoring | Student | 80.00 | | 0 | 0 | 0
-2024-02-18 | 17:40:50 | Payment for groceries | Supermarket | -100.00 | 3456 7890 1234 5678 | 03 | 2026 | 901
-2024-02-20 | 19:25:40 | Deposit from freelance work | Client D | 200.00 | | 0 | 0 | 0
-2024-02-23 | 10:15:55 | Payment for dining out | Restaurant | -40.00 | 9012 3456 7890 1234 | 02 | 2025 | 678
-2024-02-25 | 14:55:35 | Deposit from side job | Friend | 50.00 | | 0 | 0 | 0
-2024-02-28 | 18:20:45 | Payment for utilities | Utility Company | -120.00 | 6789 0123 4567 8901 | 01 | 2025 | 234
-2024-02-29 | 21:10:30 | Deposit from refund | Retail Store | 30.00 | | 0 | 0 | 0
-2024-03-02 | 08:30:15 | Payment for rent | Landlord | -1200.00 | 1234 5678 9012 3456 | 12 | 2026 | 789
-2024-03-05 | 11:45:20 | Deposit from freelance project | Client A | 500.00 | | 0 | 0 | 0
-2024-03-07 | 14:20:10 | Payment for groceries | Supermarket | -80.00 | 9876 5432 1098 7654 | 11 | 2025 | 654
-2024-03-10 | 16:55:30 | Deposit from tutoring | Student | 100.00 | | 0 | 0 | 0
-2024-03-12 | 09:10:45 | Payment for utilities | Utility Company | -150.00 | 6543 2109 8765 4321 | 10 | 2024 | 321
-2024-03-15 | 12:30:25 | Deposit from freelance work | Client B | 300.00 | | 0 | 0 | 0
-2024-03-18 | 17:40:50 | Payment for dining out | Restaurant | -50.00 | 7890 1234 5678 9012 | 09 | 2025 | 456
-2024-03-20 | 19:25:40 | Deposit from garage sale | Neighbor | 200.00 | | 0 | 0 | 0
-2024-03-23 | 10:15:55 | Payment for car insurance | Insurance Company | -300.00 | 3456 7890 1234 5678 | 08 | 2026 | 567
-2024-03-25 | 14:55:35 | Deposit from birthday gift | Family | 50.00 | | 0 | 0 | 0
-2024-03-28 | 18:20:45 | Payment for internet | Internet Provider | -60.00 | 6789 0123 4567 8901 | 07 | 2024 | 234
-2024-03-30 | 21:10:30 | Deposit from refund | Retail Store | 20.00 | | 0 | 0 | 0
-2024-04-02 | 08:30:15 | Payment for phone bill | Phone Company | -70.00 | 2345 6789 0123 4567 | 06 | 2026 | 789
-2024-04-05 | 11:45:20 | Deposit from garage sale | Neighbor | 150.00 | | 0 | 0 | 0
-2024-04-07 | 14:20:10 | Payment for gym membership | Gym | -80.00 | 8901 2345 6789 0123 | 05 | 2025 | 456
-2024-04-10 | 16:55:30 | Deposit from freelance project | Client C | 400.00 | | 0 | 0 | 0
-2024-04-12 | 09:10:45 | Payment for car repair | Auto Shop | -200.00 | 5678 9012 3456 7890 | 04 | 2024 | 012
-2024-04-15 | 12:30:25 | Deposit from tutoring | Student | 80.00 | | 0 | 0 | 0
-2024-04-18 | 17:40:50 | Payment for groceries | Supermarket | -100.00 | 3456 7890 1234 5678 | 03 | 2026 | 901
-2024-04-20 | 19:25:40 | Deposit from freelance work | Client D | 200.00 | | 0 | 0 | 0
-2024-04-23 | 10:15:55 | Payment for dining out | Restaurant | -40.00 | 9012 3456 7890 1234 | 02 | 2025 | 678
-2024-04-25 | 14:55:35 | Deposit from side job | Friend | 50.00 | | 0 | 0 | 0
-2024-04-28 | 18:20:45 | Payment for utilities | Utility Company | -120.00 | 6789 0123 4567 8901 | 01 | 2025 | 234
-2024-04-29 | 21:10:30 | Deposit from refund | Retail Store | 30.00 | | 0 | 0 | 0
+2024-05-03 | 09:30:15| Freelance graphic design        | Client A   | 600.00  |                    | 0                | 0               | 0
+2024-05-02 | 14:45:30| Payment for editing software    | Adobe      | -80.00  | 4563219870321654   | 04               | 2024            | 456
+2024-05-01 | 12:20:25| Security deposit                | Walmart    | 200.00  |                    | 0                | 0               | 0
+2024-04-30 | 11:15:18| Freelance writing               | Client B   | 480.00  |                    | 0                | 0               | 0
+2024-04-29 | 16:30:22| Payment for social media tool   | Hootsuite  | -70.00  | 3216549870321654   | 06               | 2024            | 321
+2024-04-28 | 14:55:30| Security deposit                | Target     | 150.00  |                    | 0                | 0               | 0
+2024-04-27 | 08:45:40| Freelance translation           | Client C   | 900.00  |                    | 0                | 0               | 0
+2024-04-26 | 13:20:22| Payment for project management  | Asana      | -50.00  | 1472583690321654   | 07               | 2023            | 147
+2024-04-25 | 09:10:18| Security deposit                | Home Depot | 250.00  |                    | 0                | 0               | 0
+2024-04-24 | 14:35:30| Freelance consulting            | Client D   | 800.00  |                    | 0                | 0               | 0
+2024-04-23 | 16:25:20| Payment for design software     | Adobe      | -90.00  | 1234567890321654   | 05               | 2024            | 123
+2024-04-22 | 08:40:35| Security deposit                | Lowe's     | 120.00  |                    | 0                | 0               | 0
+2024-04-21 | 10:15:28| Freelance web development       | Client E   | 700.00  |                    | 0                | 0               | 0
+2024-04-20 | 15:30:22| Payment for hosting service     | GoDaddy    | -40.00  | 7894561230321654   | 08               | 2023            | 789
+2024-04-19 | 09:45:18| Security deposit                | Best Buy   | 180.00  |                    | 0                | 0               | 0
+2024-04-18 | 14:20:30| Freelance content creation      | Client F   | 550.00  |                    | 0                | 0               | 0
+2024-04-17 | 16:15:25| Payment for domain registration | Namecheap  | -30.00  | 6547893210321654   | 07               | 2023            | 654
+2024-04-16 | 08:30:35| Security deposit                | Costco     | 150.00  |                    | 0                | 0               | 0
+2024-04-15 | 10:25:40| Freelance illustration          | Client G   | 500.00  |                    | 0                | 0               | 0
+2024-04-14 | 13:45:22| Payment for photo editing       | Adobe      | -100.00 | 2589631470321654   | 03               | 2024            | 258
+2024-04-13 | 09:55:18| Security deposit                | Target     | 200.00  |                    | 0                | 0               | 0
+2024-04-12 | 14:40:30| Freelance video editing         | Client H   | 900.00  |                    | 0                | 0               | 0
+2024-04-11 | 16:20:25| Payment for design software     | Adobe      | -80.00  | 9876543210321654   | 02               | 2024            | 987
+2024-04-10 | 08:35:35| Security deposit                | Walmart    | 180.00  |                    | 0                | 0               | 0
+2024-04-09 | 11:20:40| Freelance writing               | Client I   | 600.00  |                    | 0                | 0               | 0
+2024-04-08 | 13:50:22| Payment for video editing       | Adobe      | -60.00  | 1472583690321654   | 01               | 2023            | 147
+2024-04-07 | 10:10:18| Security deposit                | Home Depot | 250.00  |                    | 0                | 0               | 0
+2024-04-06 | 14:35:30| Freelance consulting            | Client J   | 800.00  |                    | 0                | 0               | 0
+2024-04-05 | 16:25:20| Payment for design software     | Adobe      | -90.00  | 3216549870321654   | 12               | 2023            | 321
+2024-04-04 | 08:40:35| Security deposit                | Lowe's     | 120.00  |                    | 0                | 0               | 0
+2024-04-03 | 10:15:28| Freelance web development       | Client K   | 700.00  |                    | 0                | 0               | 0
+2024-04-02 | 15:30:22| Payment for hosting service     | GoDaddy    | -40.00  | 6547893210321654   | 11               | 2023            | 654
+2024-04-01 | 09:45:18| Security deposit                | Best Buy   | 180.00  |                    | 0                | 0               | 0
+2024-03-31 | 14:20:30| Freelance content creation      | Client L   | 550.00  |                    | 0                | 0               | 0
+2024-03-30 | 16:15:25| Payment for domain registration | Namecheap  | -30.00  | 3216549870321654   | 10               | 2023            | 321
+2024-03-29 | 08:30:35| Security deposit                | Costco     | 150.00  |                    | 0                | 0               | 0
+2024-03-28 | 10:25:40| Freelance illustration          | Client M   | 500.00  |                    | 0                | 0               | 0
+2024-03-27 | 13:45:22| Payment for photo editing       | Adobe      | -100.00 | 1472583690321654   | 09               | 2023            | 147
+2024-03-26 | 09:55:18| Security deposit                | Target     | 200.00  |                    | 0                | 0               | 0
+2024-03-25 | 14:40:30| Freelance video editing         | Client N   | 900.00  |                    | 0                | 0               | 0
+2024-03-24 | 16:20:25| Payment for design software     | Adobe      | -80.00  | 9876543210321654   | 08               | 2024            | 987
+2024-03-23 | 08:35:35| Security deposit                | Walmart    | 180.00  |                    | 0                | 0               | 0
+2024-03-22 | 11:20:40| Freelance writing               | Client O   | 600.00  |                    | 0                | 0               | 0
+2024-03-21 | 13:50:22| Payment for video editing       | Adobe      | -60.00  | 2589631470321654   | 07               | 2024            | 258
+2024-03-20 | 10:10:18| Security deposit                | Home Depot | 250.00  |                    | 0                | 0               | 0
+2024-03-19 | 14:35:30| Freelance consulting            | Client P   | 800.00  |                    | 0                | 0               | 0
+2024-03-18 | 16:25:20| Payment for design software     | Adobe      | -90.00  | 3216549870321654   | 06               | 2024            | 321
+2024-03-17 | 08:40:35| Security deposit                | Lowe's     | 120.00  |                    | 0                | 0               | 0
+2024-03-16 | 10:15:28| Freelance web development       | Client Q   | 700.00  |                    | 0                | 0               | 0
+2024-03-15 | 15:30:22| Payment for hosting service     | GoDaddy    | -40.00  | 6547893210321654   | 05               | 2023            | 654
+2024-03-14 | 09:45:18| Security deposit                | Best Buy   | 180.00  |                    | 0                | 0               | 0
+2024-03-13 | 14:20:30| Freelance content creation      | Client R   | 550.00  |                    | 0                | 0               | 0
+2024-03-12 | 16:15:25| Payment for domain registration | Namecheap  | -30.00  | 1472583690321654   | 04               | 2023            | 147
+2024-03-11 | 08:30:35| Security deposit                | Costco     | 150.00  |                    | 0                | 0               | 0
+2024-03-10 | 10:25:40| Freelance illustration          | Client S   | 500.00  |                    | 0                | 0               | 0
+2024-03-09 | 13:45:22| Payment for photo editing       | Adobe      | -100.00 | 3216549870321654   | 03               | 2024            | 321
+2024-03-08 | 09:55:18| Security deposit                | Target     | 200.00  |                    | 0                | 0               | 0
+2024-03-07 | 14:40:30| Freelance video editing         | Client T   | 900.00  |                    | 0                | 0               | 0
+2024-03-06 | 16:20:25| Payment for design software     | Adobe      | -80.00  | 9876543210321654   | 02               | 2024            | 987
+2024-03-05 | 08:35:35| Security deposit                | Walmart    | 180.00  |                    | 0                | 0               | 0
+2024-03-04 | 11:20:40| Freelance writing               | Client U   | 600.00  |                    | 0                | 0               | 0
+2024-03-03 | 13:50:22| Payment for video editing       | Adobe      | -60.00  | 2589631470321654   | 01               | 2024            | 258
+2024-03-02 | 10:10:18| Security deposit                | Home Depot | 250.00  |                    | 0                | 0               | 0
+2024-03-01 | 14:35:30| Freelance consulting            | Client V   | 800.00  |                    | 0                | 0               | 0
+2024-02-29 | 16:25:20| Payment for design software     | Adobe      | -90.00  | 3216549870321654   | 12               | 2023            | 321
+2024-02-28 | 08:40:35| Security deposit                | Lowe's     | 120.00  |                    | 0                | 0               | 0
+2024-02-27 | 10:15:28| Freelance web development       | Client W   | 700.00  |                    | 0                | 0               | 0
+2024-02-26 | 15:30:22| Payment for hosting service     | GoDaddy    | -40.00  | 6547893210321654   | 11               | 2023            | 654
+2024-02-25 | 09:45:18| Security deposit                | Best Buy   | 180.00  |                    | 0                | 0               | 0
+2024-02-24 | 14:20:30| Freelance content creation      | Client X   | 550.00  |                    | 0                | 0               | 0
+2024-02-23 | 16:15:25| Payment for domain registration | Namecheap  | -30.00  | 1472583690321654   | 10               | 2023            | 147
+2024-02-22 | 08:30:35| Security deposit                | Costco     | 150.00  |                    | 0                | 0               | 0
+2024-02-21 | 10:25:40| Freelance illustration          | Client Y   | 500.00  |                    | 0                | 0               | 0
+2024-02-20 | 13:45:22| Payment for photo editing       | Adobe      | -100.00 | 3216549870321654   | 09               | 2023            | 321
+2024-02-19 | 09:55:18| Security deposit                | Target     | 200.00  |                    | 0                | 0               | 0
+2024-02-18 | 14:40:30| Freelance video editing         | Client Z   | 900.00  |                    | 0                | 0               | 0
+2024-02-17 | 16:20:25| Payment for design software     | Adobe      | -80.00  | 9876543210321654   | 08               | 2024            | 987
+2024-02-16 | 08:35:35| Security deposit                | Walmart    | 180.00  |                    | 0                | 0               | 0
+2024-02-15 | 11:20:40| Freelance writing               | Client AA  | 600.00  |                    | 0                | 0               | 0
+2024-02-14 | 13:50:22| Payment for video editing       | Adobe      | -60.00  | 2589631470321654   | 07               | 2024            | 258
+2024-02-13 | 10:10:18| Security deposit                | Home Depot | 250.00  |                    | 0                | 0               | 0
+2024-02-12 | 14:35:30| Freelance consulting            | Client BB  | 800.00  |                    | 0                | 0               | 0
+2024-02-11 | 16:25:20| Payment for design software     | Adobe      | -90.00  | 3216549870321654   | 06               | 2024            | 321
+2024-02-10 | 08:40:35| Security deposit                | Lowe's     | 120.00  |                    | 0                | 0               | 0
+2024-02-09 | 10:15:28| Freelance web development       | Client CC  | 700.00  |                    | 0                | 0               | 0
+2024-02-08 | 15:30:22| Payment for hosting service     | GoDaddy    | -40.00  | 6547893210321654   | 05               | 2023            | 654
+2024-02-07 | 09:45:18| Security deposit                | Best Buy   | 180.00  |                    | 0                | 0               | 0
+2024-02-06 | 14:20:30| Freelance content creation      | Client DD  | 550.00  |                    | 0                | 0               | 0
+2024-02-05 | 16:15:25| Payment for domain registration | Namecheap  | -30.00  | 1472583690321654   | 04               |
+2023-12-31 | 18:20:45 | Website development           | Client B  | 1500.00  |                   | 0                | 0               | 0
+2023-12-28 | 12:45:30 | Security deposit              | Amazon    | 300.00   |                   | 0                | 0               | 0
+2023-12-20 | 09:10:15 | Freelance graphic design      | Client C  | 800.00   |                   | 0                | 0               | 0
+2023-12-15 | 14:30:20 | Payment for hosting           | GoDaddy   | -120.00  | 5478963214789652  | 10               | 2024            | 753
+2023-12-10 | 10:55:40 | Security deposit              | BestBuy   | 500.00   |                   | 0                | 0               | 0
+2023-12-05 | 17:20:25 | Freelance content writing     | Client D  | 400.00   |                   | 0                | 0               | 0
+2023-12-03 | 09:30:18 | Payment for software          | Microsoft | -250.00  | 6354789652147895  | 09               | 2025            | 874
+2023-11-28 | 14:15:30 | Security deposit              | Walmart   | 200.00   |                   | 0                | 0               | 0
+2023-11-25 | 11:40:22 | Freelance photography         | Client E  | 700.00   |                   | 0                | 0               | 0
+2023-11-22 | 09:05:17 | Payment for domain renewal    | Namecheap | -20.00   | 1234567890123456  | 05               | 2023            | 123
+2023-11-18 | 13:30:10 | Security deposit              | Target    | 100.00   |                   | 0                | 0               | 0
+2023-11-15 | 08:55:28 | Freelance video editing       | Client F  | 900.00   |                   | 0                | 0               | 0
+2023-11-12 | 16:20:15 | Payment for software          | Adobe     | -150.00  | 9876543210123456  | 08               | 2024            | 987
+2023-11-10 | 10:30:45 | Security deposit              | Staples   | 300.00   |                   | 0                | 0               | 0
+2023-11-05 | 09:15:55 | Freelance social media management | Client G | 600.00   |                   | 0                | 0               | 0
+2023-11-01 | 14:40:33 | Payment for web hosting       | Bluehost  | -80.00   | 4567890123456789  | 07               | 2023            | 456
+2023-10-28 | 17:10:20 | Security deposit              | Home Depot| 150.00   |                   | 0                | 0               | 0
+2023-10-25 | 11:25:18 | Freelance consulting          | Client H  | 1000.00  |                   | 0                | 0               | 0
+2023-10-20 | 14:30:12 | Payment for software          | GitHub    | -50.00   | 3698521470369852  | 04               | 2023            | 369
+2023-10-15 | 09:35:40 | Security deposit              | Lowe's    | 180.00   |                   | 0                | 0               | 0
+2023-10-10 | 12:20:30 | Freelance translation         | Client I  | 850.00   |                   | 0                | 0               | 0
+2023-10-05 | 15:45:50 | Payment for design software   | Sketch    | -70.00   | 9874563210123456  | 06               | 2024            | 987
+2023-10-01 | 10:10:15 | Security deposit              | Office Depot | 120.00 |                   | 0                | 0               | 0
+2023-09-26 | 08:55:30 | Freelance editing             | Client J  | 750.00   |                   | 0                | 0               | 0
+2023-09-20 | 14:20:25 | Payment for web development   | Wix       | -90.00   | 3210987654321098  | 03               | 2023            | 321
+2023-09-15 | 11:30:35 | Security deposit              | Costco    | 250.00   |                   | 0                | 0               | 0
+2023-09-10 | 10:25:40 | Freelance illustration        | Client K  | 600.00   |                   | 0                | 0               | 0
+2023-09-05 | 16:10:22 | Payment for software          | Slack     | -40.00   | 2589631470258963  | 02               | 2023            | 258
+2023-09-01 | 13:55:18 | Security deposit              | Best Buy  | 400.00   |                   | 0                | 0               | 0
+2023-08-28 | 09:45:30 | Freelance writing             | Client L  | 480.00   |                   | 0                | 0               | 0
+2023-08-22 | 14:20:25 | Payment for photo editing     | Adobe     | -100.00  | 1234567890123456  | 01               | 2024            | 123
+2023-08-15 | 12:30:33 | Security deposit              | Amazon    | 200.00   |                   | 0                | 0               | 0
+2023-08-10 | 10:20:40 | Freelance video production    | Client M  | 900.00   |                   | 0                | 0               | 0
+2023-08-05 | 15:15:55 | Payment for design software   | Adobe     | -60.00   | 9876543210123456  | 12               | 2023            | 987
+2023-08-01 | 11:10:22 | Security deposit              | Target    | 180.00   |                   | 0                | 0               | 0
+2023-07-26 | 10:55:30 | Freelance content creation    | Client N  | 550.00   |                   | 0                | 0               | 0
+2023-07-20 | 14:25:20 | Payment for domain registration | Namecheap | -30.00   | 9876543210987654  | 11               | 2022            | 987
+2023-07-15 | 08:40:35 | Security deposit              | Walmart   | 120.00   |                   | 0                | 0               | 0
+2023-07-10 | 13:20:28 | Freelance web design          | Client O  | 700.00   |                   | 0                | 0               | 0
+2023-07-05 | 16:30:22 | Payment for project management| Asana     | -50.00   | 1234567890123456  | 10               | 2022            | 123
+2023-07-01 | 09:55:18 | Security deposit              | Home Depot| 250.00   |                   | 0                | 0               | 0
+2023-06-25 | 14:35:30 | Freelance consulting          | Client P  | 800.00   |                   | 0                | 0               | 0
+2023-06-20 | 12:15:22 | Payment for design software   | Adobe     | -80.00   | 2589631470258963  | 09               | 2022            | 258
+2023-06-15 | 10:30:35 | Security deposit              | Lowe's    | 150.00   |                   | 0                | 0               | 0
+2023-06-10 | 08:25:40 | Freelance translation         | Client Q  | 900.00   |                   | 0                | 0               | 0
+2023-06-05 | 17:20:22 | Payment for social media tool | Hootsuite | -70.00   | 1234567890123456  | 08               | 2023            | 123
+2023-06-01 | 14:10:18 | Security deposit              | Staples   | 180.00   |                   | 0                | 0               | 0
+2023-05-28 | 11:45:30 | Freelance illustration        | Client R  | 500.00   |                   | 0                | 0               | 0
+2023-05-22 | 09:30:25 | Payment for photo editing     | Adobe     | -90.00   | 9876543210123456  | 07               | 2023            | 987
+2023-05-15 | 08:20:33 | Security deposit              | Costco    | 200.00   |                   | 0                | 0               | 0
+2023-05-10 | 14:35:40 | Freelance writing             | Client S  | 600.00   |                   | 0                | 0               | 0
+2023-05-05 | 16:40:22 | Payment for video editing     | Adobe     | -60.00   | 1234567890123456  | 06               | 2022            | 123
+2023-05-01 | 09:55:18 | Security deposit              | Best Buy  | 400.00   |                   | 0                | 0               | 0
+2023-04-26 | 13:15:30 | Freelance content creation    | Client T  | 700.00   |                   | 0                | 0               | 0
+2023-04-20 | 15:25:20 | Payment for domain renewal    | Namecheap | -100.00  | 6547893210147852  | 06               | 2022            | 654
+2023-04-15 | 11:40:35 | Security deposit              | Target    | 120.00   |                   | 0                | 0               | 0
+2023-04-10 | 10:15:28 | Freelance web design          | Client U  | 750.00   |                   | 0                | 0               | 0
+2023-04-05 | 16:20:22 | Payment for project management| Asana     | -50.00   | 1472583690147852  | 08               | 2022            | 147
+2023-04-01 | 14:55:18 | Security deposit              | Home Depot| 250.00   |                   | 0                | 0               | 0
+2023-03-26 | 08:40:30 | Freelance consulting          | Client V  | 800.00   |                   | 0                | 0               | 0
+2023-03-20 | 16:15:25 | Payment for design software   | Adobe     | -80.00   | 3216549870321654  | 05               | 2022            | 321
+2023-03-15 | 09:30:35 | Security deposit              | Lowe's    | 150.00   |                   | 0                | 0               | 0
+2023-03-10 | 13:25:40 | Freelance translation         | Client W  | 900.00   |                   | 0                | 0               | 0
+2023-03-05 | 14:30:22 | Payment for social media tool | Hootsuite | -70.00   | 2589631470321654  | 09               | 2023            | 258
+2023-03-01 | 10:10:18 | Security deposit              | Staples   | 180.00   |                   | 0                | 0               | 0
+2023-02-25 | 12:45:30 | Freelance illustration        | Client X  | 500.00   |                   | 0                | 0               | 0
+2023-02-20 | 14:30:25 | Payment for photo editing     | Adobe     | -90.00   | 7894561230321654  | 04               | 2023            | 789
+2023-02-15 | 11:20:33 | Security deposit              | Costco    | 200.00   |                   | 0                | 0               | 0
+2023-02-10 | 09:45:40 | Freelance writing             | Client Y  | 600.00   |                   | 0                | 0               | 0
+2023-02-05 | 16:20:22 | Payment for video editing     | Adobe     | -60.00   | 3216549870321654  | 03               | 2022            | 321
+2023-02-01 | 14:55:18 | Security deposit              | Best Buy  | 400.00   |                   | 0                | 0               | 0
+2023-01-26 | 08:40:30 | Freelance content creation    | Client Z  | 700.00   |                   | 0                | 0               | 0
+2023-01-20 | 16:15:25 | Payment for domain renewal    | Namecheap | -100.00  | 4563217890321654  | 07               | 2022            | 456
+2023-01-15 | 09:30:35 | Security deposit              | Target    | 120.00   |                   | 0                | 0               | 0
+2023-01-10 | 13:25:40 | Freelance web design          | Client A  | 750.00   |                   | 0                | 0               | 0
+2023-01-05 | 14:30:22 | Payment for project management| Asana     | -50.00   | 1472583690321654  | 06               | 2022            | 147
+2023-01-01 | 10:10:18 | Security deposit              | Home Depot| 250.00   |                   | 0                | 0               | 02024-05-03 | 01:32:13 | prepayment for project | amazon | 900.00 |  | 0 | 0 | 0
+2024-05-03 | 01:35:25 | rent  | landlord | -12000.00 | 5465254875215426 | 5 | 2028 | 564
+2024-05-03 | 01:36:33 | subscription | youtube | -45.00 | 5421256987532563 | 11 | 2024 | 524
+2024-05-03 | 01:48:40 | project ZZzz | ups | 500.00 |  | 0 | 0 | 0
+2024-05-03 | 01:49:51 | lost bet | luii | -100.00 | 5421254215421542 | 12 | 2025 | 856
+2024-05-03 | 01:50:35 | lost bet | lola | -10.00 | 5421542125632569 | 6 | 2025 | 325
+2024-05-03 | 01:51:22 | owed debt | lola | -20.00 | 2012521452365236 | 11 | 2025 | 323
+2024-05-03 | 02:05:17 | project | amazon | 500.00 |  | 0 | 0 | 0
