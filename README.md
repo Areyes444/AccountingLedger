@@ -3,4 +3,5 @@
 *Below is an idea sketch of what I wanted in each screen*
 ![Template for Project](https://github.com/Areyes444/AccountingLedger/assets/166452594/fe565b82-9b5f-42ed-a15a-0a6085e3cdd4)
 *Below is the Home Screen*
+
 ![Home screen](https://github.com/Areyes444/AccountingLedger/assets/166452594/31d95464-8623-4f9d-8888-8732b86e6810)
